@@ -37,6 +37,7 @@ All tools in one place on the website: https://vaghelabhavesh.com/free-tools.htm
 
 | Tool | What it does | Source | Online |
 |---|---|---|---|
+| **Safe Zone Overlay** | Draws the Reels, TikTok and Shorts safe-zone margins over any video preview. | [GitHub](https://github.com/beliveedits/safe-zone-overlay) | [Open](https://vaghelabhavesh.com/safe-zone-template.html) |
 | **Deskhand** | Give your laptop a command and it does it. Voice and text, no cloud, no AI model. | [GitHub](https://github.com/beliveedits/deskhand) | [Open](https://vaghelabhavesh.com/deskhand.html) |
 
 ## Step-by-step guides
